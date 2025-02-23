@@ -42,3 +42,5 @@ function tmp = sine_term(oddNum, x) % Subfunction starts with function definitio
 % line, similar to the primary function
 tmp = (4/pi) * sin(oddNum * x)/oddNum; % Calculate each sine term here and return/assign
 % the value to a variable, named as tmp
+
+% Im just going to use this comment to test patch update 
